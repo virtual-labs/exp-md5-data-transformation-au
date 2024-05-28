@@ -1,7 +1,7 @@
 ### Procedure
 
 1. Step 1: Add your value in the input field and click the generate button to start the MD5 hashing process.
-<div><img src="./images/input.png" width="40%"></div>
+<div><img src="./images/input.png" width="20%"></div>
 
 
 2. Read the instructions shown after clicking the submit button.
